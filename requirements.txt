@@ -1,0 +1,6 @@
+requests~=2.32.3
+beautifulsoup4~=4.12.3
+google~=3.0.0
+googleapiclient
+aiohttp~=3.10.3
+aiofiles~=24.1.0
